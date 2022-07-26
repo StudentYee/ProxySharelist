@@ -30,6 +30,15 @@ https://api.ikuuu.science/link/JL0NgHGWjM8Hby9b?clash=4&extend=1
 
 https://openit.daycat.space/clash
 
+## DUAL STACK VMESS
+🇸🇬新加坡 🇺🇸美国
+**七日内有效（8月2日）**
+失效请联系
+
+https://d1.mk/HofE498
+
+
+
 ## 来源不明
 [链接过长，长按复制](https://pub-api-1.bianyuan.xyz/sub?target=clash&url=ss%3A%2F%2FYWVzLTI1Ni1nY206OWZqMzg4ZjVnNUAyMC4yMzkuMTk0LjEwMjo4Mzg1%23%25E9%25A6%2599%25E6%25B8%25AF%25F0%259F%2587%25AD%25F0%259F%2587%25B0%7Css%3A%2F%2FYWVzLTI1Ni1nY206ODhneTU2aDlAMTA0LjIzNy4xNTQuMTU4Ojg2NA%23%25E7%25BE%258E%25E5%259B%25BD%25F0%259F%2587%25BA%25F0%259F%2587%25B8%7Css%3A%2F%2FYWVzLTI1Ni1nY206OGY4dXI0Z0AxMzkuMTYyLjU3LjE5NDo5OTQ%23%25E6%2596%25B0%25E5%258A%25A0%25E5%259D%25A1&insert=false)
 
