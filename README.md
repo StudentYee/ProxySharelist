@@ -2,7 +2,7 @@
 鑫泽的公开代理分享列表
 
 # 使用方法
-# Clash 类
+## Clash 类
 **自行获取下列软件并复制链接添加订阅：**
  - Android : [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases/tag/v2.5.9)
  - iOS / iPadOS ： Shadowrocket
