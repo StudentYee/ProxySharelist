@@ -1,11 +1,8 @@
 # ProxySharelist
 鑫泽的公开代理分享列表
 
-**特别提醒：本文档仅分享 Clash 类订阅链接！**
-*如需使用其他代理软件，可以尝试使用订阅转换工具；在使用订阅转换工具时，您应当注意避免使用可能收集订阅链接的**无良**平台*
-
-
 # 使用方法
+# Clash 类
 **自行获取下列软件并复制链接添加订阅：**
  - Android : [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases/tag/v2.5.9)
  - iOS / iPadOS ： Shadowrocket
@@ -37,12 +34,6 @@ https://openit.daycat.space/clash
 
 失效请联系
 
-**⚠️特别提醒：因为使用的是代理转换工具，节点在“手动分类”目录下查找**
-
-https://d1.mk/HofE498
-
-
-原 VMESS 链接：
 vmess://eyJhZGQiOiJzZzIuMzF2cG4uY29tIiwiYWlkIjoiMCIsImlkIjoiZGNlNGM0NzItNmYzZi00YzQ1LTgwZTUtY2JmZTVlY2FkN2VlIiwiaG9zdCI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9mYXN0c3NoL3hpbnplci82MmRmYTNhMGQ4M2ZiLyIsInBvcnQiOiI0NDMiLCJwcyI6InNnMi4zMXZwbi5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJ1czIuMzF2cG4uY29tIiwiYWlkIjoiMCIsImlkIjoiMmVmNjRkYzgtY2EzYy00NWI4LWFkNWYtMjA4NzE0NTIxNDNiIiwiaG9zdCI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9mYXN0c3NoL2RqZWZqZm0vNjJkZmE0NmM4ZGUyNy8iLCJwb3J0IjoiNDQzIiwicHMiOiJ1czIuMzF2cG4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
