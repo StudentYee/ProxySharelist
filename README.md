@@ -1,9 +1,9 @@
 <div align="center">
     <h1> ✨ProxySharelist </h1>
 
-[! 加入 Telegram Channel](https://t.me/Xinzer_Cafe)
+[加入 Telegram Channel](https://t.me/Xinzer_Cafe)
 
-[! 加入 Telegram Chat](https://t.me/Xinzer_Chat)
+[加入 Telegram Chat](https://t.me/Xinzer_Chat)
 
 </div>
 
