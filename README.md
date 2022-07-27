@@ -20,6 +20,7 @@ ikuuu VPN 提供白嫖套餐，每月 50GB 流量（每日签到可获得流量�
 | Clash  |    https://api.ikuuu.science/link/xdRRQBZW70wjnUOv?clash=3&extend=1                               |
 |   Clash 备用    |     https://api.ikuuu.science/link/JL0NgHGWjM8Hby9b?clash=4&extend=1                              |
 |      V2Ray     |      https://api.ikuuu.science/link/xdRRQBZW70wjnUOv?sub=3&extend=1                             |
+
 **建议使用4号节点**
 
 
