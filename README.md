@@ -32,7 +32,6 @@ ikuuu VPN 提供白嫖套餐，每月 50GB 流量（每日签到可获得流量�
 ## Openit
 有关 Openit 的信息可以前往 [官方文档](https://openit.daycat.space/)
 
-https://openit.daycat.space/clash
 | 链接类型  | 链接  |
 |:--------: |---------------------------------- |
 |  base64 |       https://openit.daycat.space/long                            |
