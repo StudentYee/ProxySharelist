@@ -2,7 +2,6 @@
     <h1> ✨ProxySharelist </h1>
 
 [加入 Telegram Channel](https://t.me/Xinzer_Cafe)
-
 [加入 Telegram Chat](https://t.me/Xinzer_Chat)
 
 </div>
@@ -69,11 +68,7 @@ ikuuu VPN 提供白嫖套餐，每月 50GB 流量（每日签到可获得流量�
 
 | 链接类型  | 链接  |
 |:--------: |---------------------------------- |
-| 🇨🇳江苏  |  vmess://eyJhZGQiOiI0My4yNDguMTM5LjI0NiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzOTZkOWNlMi03NjMxLTQ5NTUtYmZmOS02MGRiMDNjZTgwMjYiLCJuZXQiOiJ3cyIsInBhdGgiOiI/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiLmsZ/oi48iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=  |
-| 🇯🇵日本  |  vmess://eyJhZGQiOiIyMC44OS41OC45NiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzOTZkOWNlMi03NjMxLTQ5NTUtYmZmOS02MGRiMDNjZTgwMjYiLCJuZXQiOiJ3cyIsInBhdGgiOiI/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiLml6XmnKwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=  |
-| 🇭🇰香港  | vmess://eyJhZGQiOiIyMC4yNTUuMTYuNTEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMzk2ZDljZTItNzYzMS00OTU1LWJmZjktNjBkYjAzY2U4MDI2IiwibmV0Ijoid3MiLCJwYXRoIjoiP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoi6aaZ5rivIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ   |
-|  通用  | https://paste.gg/p/anonymous/7699018a47ff4178b99aae7a200866b0/files/b7c51500c9e84feb8c0512ed0e34ab9e/raw  |
-| Clash | https://paste.gg/p/anonymous/9b6f263f41524225b8dbaf490c80bb84/files/b22b76bdbaa34611a0383bcdfa793a4e/raw  |
+| 通用  |  http://mv66.tk/v2p.txt  |
 
 
 ## 未知来源的自建节点
