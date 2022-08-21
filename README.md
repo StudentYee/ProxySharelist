@@ -43,9 +43,8 @@
 | Clash  |    vmess://eyJhZGQiOiIxNzIuNjcuMTkxLjQxIiwiYWlkIjoiMCIsImhvc3QiOiJzZzIuMzF2cG4uY29tIiwiaWQiOiJkY2U0YzQ3Mi02ZjNmLTRjNDUtODBlNS1jYmZlNWVjYWQ3ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZmFzdHNzaC9jaGVva2NlY2RnZWNzLzYyZmZhMWI1NTFmY2QvIiwicG9ydCI6IjQ0MyIsInBzIjoic2cyLjMxdnBuLmNvbSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZzIuMzF2cG4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=                             |
 
 ## ikuuu
-**订阅链接已更换**
-ikuuu VPN 提供白嫖套餐，每月 50GB 流量（每日签到可获得流量，多在 1GB 不等），均为 🇯🇵日本节点 ，共七个节点。
-
+ - **订阅链接已更换**
+ - ikuuu VPN 提供白嫖套餐，每月 50GB 流量（每日签到可获得流量，多在 1GB 不等），均为 🇯🇵日本节点 ，共七个节点。
 
 | 链接类型  | 链接  |
 |:--------: |---------------------------------- |
@@ -54,14 +53,8 @@ ikuuu VPN 提供白嫖套餐，每月 50GB 流量（每日签到可获得流量�
 |      V2Ray     |      https://api.ndsxfkjfvhzdsfio.quest/link/xdRRQBZW70wjnUOv?sub=3&extend=1                             |
 | V2Ray备用 | https://api.ndsxfkjfvhzdsfio.quest/link/JL0NgHGWjM8Hby9b?sub=3&extend=1 |
 
-
-**建议使用4号节点**
-
-
-
-
-
-您亦可自行注册账号。
+ - **建议使用4号节点**
+ - 您亦可自行注册账号。
 
 ## Openit
 有关 Openit 的信息可以前往 [官方文档](https://openit.daycat.space/)
