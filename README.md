@@ -24,16 +24,16 @@
 
 # 订阅链接
 ## ikuuu（特殊期间不推荐）
-**订阅链接已更换，此处尚不可用**
+**订阅链接已更换**
 ikuuu VPN 提供白嫖套餐，每月 50GB 流量（每日签到可获得流量，多在 1GB 不等），均为 🇯🇵日本节点 ，共七个节点。
 
 
 | 链接类型  | 链接  |
 |:--------: |---------------------------------- |
-| Clash  |    https://api.ikuuu.science/link/xdRRQBZW70wjnUOv?clash=3&extend=1                               |
-|   Clash 备用    |     https://api.ikuuu.science/link/JL0NgHGWjM8Hby9b?clash=4&extend=1                              |
-|      V2Ray     |      https://api.ikuuu.science/link/xdRRQBZW70wjnUOv?sub=3&extend=1                             |
-| V2Ray备用 | https://api.ikuuu.science/link/JL0NgHGWjM8Hby9b?sub=3&extend=1 |
+| Clash  |    https://api.ndsxfkjfvhzdsfio.quest/link/xdRRQBZW70wjnUOv?clash=4&extend=1                               |
+|   Clash 备用    |     https://api.ndsxfkjfvhzdsfio.quest/link/JL0NgHGWjM8Hby9b?clash=4&extend=1                              |
+|      V2Ray     |      https://api.ndsxfkjfvhzdsfio.quest/link/xdRRQBZW70wjnUOv?sub=3&extend=1                             |
+| V2Ray备用 | https://api.ndsxfkjfvhzdsfio.quest/link/JL0NgHGWjM8Hby9b?sub=3&extend=1 |
 
 
 **建议使用4号节点**
