@@ -37,6 +37,7 @@
 # 订阅链接
 ## DUAL STACK VMESS （已失效）
 **如需可自行前往 [DUAL STACK VMESS](https://hax.co.id/dual-stack-vpn/)自行申请。**
+
 ~~🇸🇬新加坡 ~~
 
 | 链接类型  | 链接  |
