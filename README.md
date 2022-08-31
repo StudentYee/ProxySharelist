@@ -35,14 +35,15 @@
 
 
 # 订阅链接
-## DUAL STACK VMESS （已失效）
-**如需可自行前往 [DUAL STACK VMESS](https://hax.co.id/dual-stack-vpn/)自行申请。**
-
-~~🇸🇬新加坡 ~~
+## 鑫泽自用❤️
+整合：自建、ikuuu以及一些其他不知道哪里来的节点。
 
 | 链接类型  | 链接  |
 |:--------: |---------------------------------- |
-| Clash  |    vmess://eyJhZGQiOiIxNzIuNjcuMTkxLjQxIiwiYWlkIjoiMCIsImhvc3QiOiJzZzIuMzF2cG4uY29tIiwiaWQiOiJkY2U0YzQ3Mi02ZjNmLTRjNDUtODBlNS1jYmZlNWVjYWQ3ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZmFzdHNzaC9jaGVva2NlY2RnZWNzLzYyZmZhMWI1NTFmY2QvIiwicG9ydCI6IjQ0MyIsInBzIjoic2cyLjMxdnBuLmNvbSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZzIuMzF2cG4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=                             |
+| Surfboard  |    https://raw.githubusercontent.com/StudentYee/ProxySharelist/main/ProxyFiles/default.conf                              |
+
+## DUAL STACK VMESS
+**如需可自行前往 [DUAL STACK VMESS](https://hax.co.id/dual-stack-vpn/)自行申请。**
 
 ## ikuuu
  - **订阅链接已更换**
@@ -74,6 +75,9 @@
 |:--------: |---------------------------------- |
 | Clash  |    https://raw.githubusercontent.com/Joker-fenxiang/jiedianfenxiang1/main/clash.yaml                             |
 | v2ray  |    https://raw.githubusercontent.com/Joker-fenxiang/jiedianfenxiang1/main/TG%5Cjokersfantastichome.txt                              |
+
+## ZGQ
+ZGQ是一名知名分享大佬，大家可以看看他的梯子分享 [传送门](https://zgq-inc.github.io/overthefirewall/)]
 
 # 留个模板
 | 链接类型  | 链接  |
