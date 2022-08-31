@@ -20,6 +20,8 @@
 
 
 # 软件下载
+[ZGQ大佬整理的下载地址与教程](https://zgq-inc.gitbook.io/overthefirewall/)
+
 ## Clash 类
 **自行获取下列软件并复制链接添加订阅：**
  - Android : [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases/tag/v2.5.9)
